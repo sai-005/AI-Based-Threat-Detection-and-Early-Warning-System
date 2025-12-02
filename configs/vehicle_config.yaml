@@ -1,0 +1,6 @@
+# vehicle_config.yaml
+model:
+  name: vehicle_detector_placeholder
+  path: saved_models/vehicle
+dataset:
+  path: data/vehicle_dataset
