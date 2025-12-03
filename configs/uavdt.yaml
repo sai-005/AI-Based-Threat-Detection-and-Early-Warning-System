@@ -1,0 +1,6 @@
+train: data/vehicle_dataset/UAVDT/train/images
+val: data/vehicle_dataset/UAVDT/val/images
+test: data/vehicle_dataset/UAVDT/test/images
+
+nc: 1
+names: ["vehicle"]

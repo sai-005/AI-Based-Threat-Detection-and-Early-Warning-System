@@ -1,6 +1,0 @@
-# person_config.yaml
-model:
-  name: person_activity_placeholder
-  path: saved_models/person
-dataset:
-  path: data/person_dataset
